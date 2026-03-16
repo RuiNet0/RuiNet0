@@ -1,6 +1,6 @@
 # 👋 Olá! Me chamo Rui 
 
-🎓 Estudante de Engenharia da Computação 9/10 - Semestre <br>
+🎓 Computer engineer 10/10 - Semestre <br>
 💻 Atualmente focado em Python e banco de dados no geral <br>
 🚀 Sempre buscando aprender mais sobre desenvolvimento backend, automações e IA
 
